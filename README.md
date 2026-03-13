@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/order-summary-card-using-flexbox-css-variables-and-responsive-design-hcuGzC5v86)
+- Solution URL: [Frontendmentor Url Solution](https://www.frontendmentor.io/solutions/order-summary-card-using-flexbox-css-variables-and-responsive-design-hcuGzC5v86)
 - Live Site URL: [Order Summary Card](https://freedev-group.github.io/order-summary-component-main-Prince/)
 
 ## My process
