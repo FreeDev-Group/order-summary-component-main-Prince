@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-order-summary-card-with-flexbox-SxX0Dtcv9x)
 - Live Site URL: [Order Summary Card](https://freedev-group.github.io/order-summary-component-main-Prince/)
 
 ## My process
